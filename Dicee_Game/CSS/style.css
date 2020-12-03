@@ -1,0 +1,67 @@
+body{
+	background-color: orange ;
+	font-family: 'Cinzel', serif;
+}
+
+
+/*Game heading*/
+
+.game{
+	margin-top: 50px;
+}
+
+.game-heading{
+	display: inline;
+	margin: 0px;	
+}
+
+.game-heading h1{
+	font-family: 'Josefin Sans', sans-serif;	
+	color:  white;
+	font-size: 140px;
+	text-align: center;	
+	margin-top: 10px; 
+	margin-bottom: 0px;	
+}
+
+.game-heading h2{
+	font-size: 50px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+/*------------players----------------*/
+
+.player-1 {
+	float: left;
+	padding-left: 250px;
+}
+
+.player-status{
+	margin-top: 100px;
+	float: left;
+	padding-left: 150px;
+}
+
+.player-2 {
+	float: right;
+	padding-right: 250px;
+}
+
+span{
+	font-size: 30px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0px;
+}
+
+li{
+	text-align: center;
+}
+
+.players img{
+	width: 250px;
+	height: 250px;
+}
