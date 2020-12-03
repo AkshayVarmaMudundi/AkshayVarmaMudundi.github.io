@@ -1,0 +1,10 @@
+body{
+  background-color: lightblue;  
+}
+
+.brush svg{
+  color: black;
+}
+.brush svg:hover{
+  color: blackwhite;
+}
